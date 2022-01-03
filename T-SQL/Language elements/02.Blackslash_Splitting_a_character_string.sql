@@ -1,3 +1,3 @@
 /* Splitting a character string */
-SELECT 'abc\  
+SELECT 'abc\   
 def' AS column_name;
